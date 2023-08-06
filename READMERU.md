@@ -29,7 +29,7 @@ pip install PteroPy
 
 ## Использование
 
-~~ Вот простой пример использования PteroPy для взаимодействия с API Pterodactyl:~~
+~~Вот простой пример использования PteroPy для взаимодействия с API Pterodactyl:~~
 
 ```python
 import PteroPy
