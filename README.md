@@ -1,5 +1,10 @@
 # PteroPy
 
+## Language
+- [English](README.md)
+- [Русский](READMERU.md)
+- [Українська](READMEUK.md)
+
 ## WARNING: the library is under development and may not work as described below
 
 ~~PteroPy is a Python library that serves as an API wrapper for the Pterodactyl panel. It provides an easy and convenient way to interact with the Pterodactyl API and manage your game servers.~~
