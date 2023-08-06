@@ -23,7 +23,7 @@
 
 ~~Для установки PteroPy просто используйте pip:~~
 
-``bash
+```bash
 pip install PteroPy
 ```
 
@@ -31,7 +31,7 @@ pip install PteroPy
 
 ~~ Вот простой пример использования PteroPy для взаимодействия с API Pterodactyl:~~
 
-``python
+```python
 import PteroPy
 
 # Создаем экземпляр клиента
