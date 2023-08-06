@@ -7,7 +7,7 @@
 
 ## WARNING: the library is under development and may not work as described below
 
-~~PteroDark is a Python library that serves as an API wrapper for the Pterodactyl panel. It provides an easy and convenient way to interact with the Pterodactyl API and manage your game servers.~~
+PteroDark is a Python library that serves as an API wrapper for the Pterodactyl panel. It provides an easy and convenient way to interact with the Pterodactyl API and manage your game servers.
 
 ## ~~Features~~
 
