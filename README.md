@@ -44,11 +44,11 @@ output = client.send_command(server_id='your-server-id', command='say Hello, ser
 print(output)
 ```
 
-~~For more detailed documentation and examples, please refer to the [official PteroPy documentation](https://github.com/your-username/PteroPy).~~
+~~For more detailed documentation and examples, please refer to the [official PteroPy documentation](https://github.com/LeaveHosting/PteroPy).~~
 
 ## Contributions
 
-~~Contributions to PteroPy are always welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/PteroPy).~~
+~~Contributions to PteroPy are always welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the [GitHub repository](https://github.com/LeaveHosting/PteroPy).~~
 
 ## License
 
